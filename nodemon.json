@@ -1,0 +1,5 @@
+{
+  "events": {
+    "restart": "babel src/api -d dist/api"
+  }
+}
